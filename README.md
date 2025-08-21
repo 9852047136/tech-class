@@ -1,4 +1,4 @@
 # tech-class
 This is my first git repo.
 <br>
-Author: Robin Shrestha
+Author: Robin Shrestha-student
